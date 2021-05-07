@@ -7,7 +7,7 @@
         // Note call is synchronous, delays should be minimal
         var req = new XMLHttpRequest();  
         req.open('GET', 
-        "https://pvvx2oap4e.execute-api.us-east-1.amazonaws.com/default/counter", 
+        "https://pvvx2oap4e.execute-api.us-east-1.amazonaws.com/counter", 
         false);   
         req.send();  
         if(req.status == 200)
