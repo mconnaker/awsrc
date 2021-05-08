@@ -83,5 +83,5 @@ I enjoyed everything about this. It was fun diving and working on these particul
 website: https://awsrc.connaker.org <br>
 github: https://github.com/mconnaker/awsrc <br>
 diagram:
-![AWSRC](/AWSRC.jpg)
+![AWSRC](AWSRC.jpg)
 
