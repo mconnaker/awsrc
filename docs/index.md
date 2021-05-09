@@ -17,11 +17,11 @@ Those conditions were:
 - CI/CD (Frontend / backend)
 
 ## Why take the challenge
-I am a veteran of on-premise solutions and on-premise virtualization platforms. I have over ten years of professional experience working with Windows servers 2008,2012,2016 and 2019 and desktops XP through 10. I've worked with network devices (Sonicwall, Cisco, Meraki, etc.), virtualization platforms (Hyper-V, VMware), storage systems (EC2) and more.
+I am a veteran of on-premise solutions and on-premise virtualization platforms. I have over ten years of professional experience working with Windows servers 2008,2012,2016 and 2019 and desktops XP through 10. I've worked with network devices (Sonicwall, Cisco, Meraki, etc.), virtualization platforms (Hyper-V, VMware), storage systems (EMC) and more.
 
 Over the last 2 and half years, I have restructured my skills to focus on cloud native. I worked for two years in internal Managed Services at IBM in the IBM Cloud and the last five months as a AWS Site Reliability Engineer. In fact, I've only recent achieved my AWS SysOps Administration certification.
 
-For me, the challenge meant learning more about the components of AWS. While I have worked in AWS fluidly, My core work is in ec2, RDS, iaaC, VPCs, and IAM. This mean there were still things I do not know or have a bit of working knowledge in - coding in JavaScript and Python, configuring API Gateways, configuring CloudFront, Amazon Certificate Manager, and Lambda Functions.
+For me, the challenge meant learning more about the components of AWS. While I have worked in AWS fluidly, My core work is in ec2, RDS, iaaC, VPCs, CloudWatch, CloudTrail, Security Groups, and IAM. This meant there were still services that either I do not know or have a bit of working knowledge in, but never done fron scratch - coding in JavaScript and Python, configuring API Gateways, configuring CloudFront, Amazon Certificate Manager, and Lambda Functions.
 
 ## Completing the Challenge
 I completed the challenge by breaking down what was needed. I also skipped over using IaaC in this challenge only because I wanted to learn and understand the Management Console. I will most likely go back over this and build a proper IaaC and redeploy the API in the static website to point to it later on.
